@@ -3,6 +3,6 @@ package gitsample;
 public class hii {
 
 	public static void main(String[] args) {
-		System.out.println();
+		System.out.println(in sample brfanch);
 	}
 }
